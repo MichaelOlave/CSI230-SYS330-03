@@ -1,4 +1,4 @@
-$folderPath = "C:\Users\WindowsXI\Desktop\CSI230\week2\outfolder"
+$folderPath = "week2\outfolder"
 
 if (Test-Path -Path $folderPath) {
     Write-Host "Folder Already Exists!!"

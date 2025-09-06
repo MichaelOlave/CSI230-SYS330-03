@@ -1,6 +1,6 @@
-$directory = "C:\Users\WindowsXI\Desktop\CSI230\week2"
+$directory = "week2"
 
-$outputFolder = "C:\Users\WindowsXI\Desktop\CSI230\week2\outfolder"
+$outputFolder = "week2\outfolder"
 $outputFile = "out.csv"
 
 $ps1Files = Get-ChildItem -Path $directory
