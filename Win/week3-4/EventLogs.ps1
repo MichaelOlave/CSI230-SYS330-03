@@ -65,4 +65,4 @@ function Get-StartupShutdownLogs($date) {
     return $logsTable
 }
 
-Get-StartupShutdownLogs(30)
+# Get-StartupShutdownLogs(30)
