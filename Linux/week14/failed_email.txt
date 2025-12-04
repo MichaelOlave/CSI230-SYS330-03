@@ -1,0 +1,9 @@
+To: michael.olave@mymail.champlain.edu
+Subject: Failed Logins
+
+2025-12-03T21:26:54.052707-05:00 kali unix_chkpwd[35953]: (kali)
+2025-12-03T21:26:54.054494-05:00 kali lightdm: user=kali
+2025-12-03T21:26:58.101787-05:00 kali unix_chkpwd[35956]: (kali)
+2025-12-03T21:26:58.102016-05:00 kali lightdm: user=kali
+2025-12-03T21:27:01.710953-05:00 kali unix_chkpwd[35959]: (kali)
+2025-12-03T21:27:01.711175-05:00 kali lightdm: user=kali

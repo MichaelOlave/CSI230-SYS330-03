@@ -1,0 +1,6 @@
+To: michael.olave@mymail.champlain.edu
+Subject: Logins
+
+2025-12-03T21:26:49.412024-05:00 kali systemd-logind[575]: 'x11'.
+2025-12-03T21:26:49.445508-05:00 kali systemd-logind[575]: 'unspecified'.
+2025-12-03T21:27:05.918471-05:00 kali systemd-logind[575]: 'x11'.
